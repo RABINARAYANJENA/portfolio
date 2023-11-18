@@ -1,0 +1,17 @@
+.flex
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Myimage
+{
+    border: 3px solid white;
+    border-radius: 70%;
+    width: 50%;
+}
+.Myimage2
+{
+    width: 50%;
+    height: fit-content;
+}
